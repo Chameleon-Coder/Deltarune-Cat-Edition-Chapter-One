@@ -1,5 +1,4 @@
-# lolcode-rpg-template
-A template for LOLCODE RPGs.
-## Applications
-- For making a game, obviously (replace RPGNAMEHERE with your RPG's name!)
-- Alternatively, you can make a simple program with it.
+# Deltarune: Cat Edition
+No Niko required to play.
+## How to play
+Get something like lol-coffee. Then, run the code.
