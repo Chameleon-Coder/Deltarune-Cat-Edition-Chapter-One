@@ -1,10 +1,9 @@
-VISIBLE "Welcome to RPGNAMEHERE!"
+VISIBLE "Welcome to Deltarune!"
 I HAS A NAEM
 VISIBLE "Input name, please."
 GIMMEH NAEM
 VISIBLE "Your name is :{NAEM}!"
-VISIBLE ":{NAEM} must defeat the evil..."
-I HAS A ENEMY
-VISIBLE "Name your foe."
-GIMMEH ENEMY
-VISIBLE "It's :{NAEM}, on a quest to defeat :{ENEMY}!"
+VISIBLE "Just kidding. Your name is Kris."
+VISIBLE "Mrs. Alphys tries to say good morning, but remembers she forgot the chalk."
+VISIBLE "She sends Susie to get it."
+VISIBLE "Susie finds another world in the closet. You go with her."
